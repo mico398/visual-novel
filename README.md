@@ -1,4 +1,4 @@
-# no_name_yet
+# visual novel without a name
 
 visual novel (Ren'Py)
 
