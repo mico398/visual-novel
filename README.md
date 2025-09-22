@@ -1,4 +1,4 @@
-# visual novel without a name
+# The First (temporary name)
 
 visual novel (Ren'Py)
 
